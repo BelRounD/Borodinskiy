@@ -263,6 +263,30 @@ a {
     text-align: right;
 }
 
+.slogan {
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.scroll-product h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.scroll-product ul {
+    list-style: none;
+}
+
+.price-services h2 {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.about h2{
+    font-size: 24px;
+    line-height: 30px;
+}
+
 .main-footer {
     color: #ffffff;
 
